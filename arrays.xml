@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="school">
+        <item name="android:text">Western Province Province</item>
+        <item name="android:text">Colombo District</item>
+        <item>Al Manar international school, Colombo</item>
+        <item>Al Nasser College, Colombo</item>
+        <item>Ananda College, Colombo</item>
+        <item>Ananda Sastralaya, Kotte</item>
+        <item>Ananda Balika Vidyalaya, Colombo</item>
+        <item>Anula Vidyalaya, Nugegoda</item>
+        <item>Asoka Vidyalaya, Colombo</item>
+        <item>Bandaragama Central College, Bandaragama</item>
+        <item>Bulathsinhala National school, Bulathsinhala</item>
+        <item>Bomiriya National School</item>
+        <item>Boys Model School, Malabe</item>
+        <item>Buddhist Ladies College</item>
+        <item>C. W. W. Kannangara College</item>
+        <item>Colombo Hindu College</item>
+        <item>Carey College Colombo</item>
+        <item>Defence Services School, Colombo</item>
+        <item>D. S. Senanayake College, Colombo</item>
+        <item>Devi Balika Vidyalaya, Colombo</item>
+        <item>Dharmapala Vidyalaya, Kottawa</item>
+        <item>Dharmapala Vidyalaya, Pannipitiya</item>
+        <item>Gothami Balika Vidyalaya, Colombo</item>
+        <item>Harischandra Vidyalaya, Temple Rd, Negombo</item>
+        <item>Hameed Al Husseinie College, Colombo</item>
+        <item>Hewavitharana Maha Vidyalaya, Colombo</item>
+        <item>Hindu College, Colombo 4</item>
+        <item>Hindu Ladies College, Ramanathan</item>
+        <item>Horana Rajakiya Vidyalaya</item>
+        <item>Isipathana College, Colombo</item>
+        <item>Kotahene Central College, Vidyala Mw, Colombo 13</item>
+        <item>Kolonnawa Balika Vidyalaya, Colombo</item>
+        <item>Lumbini College, Colombo 5</item>
+        <item>Mahanama College, Colombo</item>
+        <item>Mukarramah International School - Colombo</item>
+        <item>Muslims Ladies College, Colombo</item>
+        <item>Mutwal Hindu College</item>
+        <item>Mahinda Rajapakse National School, Pitipana, Homagama</item>
+        <item>Nalanda Central College, Minuwangoda</item>
+        <item>Nalanda College, Colombo</item>
+        <item>Piliyandala Central College</item>
+        <item>President s College, Sri Jayawardenapura Kotte</item>
+        <item>Presbyterian Girls National School, Dehiwala</item>
+        <item>Prince of Wales College, Moratuwa</item>
+        <item>Princess of Wales College, Moratuwa</item>
+        <item>Princeway College, Avissawella</item>
+        <item>Royal College, Colombo</item>
+        <item>Rathnawali Balika Vidyalaya, Borella</item>
+        <item>Rathnawali Balika Maha Vidyalaya, Gampaha</item>
+        <item>Rajasinghe Central College, Hanwella</item>
+        <item>Samudradevi Balika Vidyalaya Nugegoda</item>
+        <item>Seethawaka National School, Avissawella</item>
+        <item>Seethawaka Rajasinghe Central College Avissawella</item>
+        <item>Sri Sumangala Balika Maha Vidyalaya, Panadura</item>
+        <item>Sri Sumangala Maha Vidyalaya, Panadura</item>
+        <item>Sripalee Vidyalaya, Horana</item>
+        <item>St. Pauls Girls School Milagiriya, Colombo 4</item>
+        <item>St. Anthony s College, Wattala</item>
+        <item>Sirimavo Bandaranaike Vidyalaya, Colombo</item>
+        <item>Sir Baron Jayathilaka Vidyalaya, Colombo</item>
+        <item>Sri Subhuthi National School, Battaramulla.</item>
+        <item>St. John s College Colombo</item>
+        <item>St. John s College, Nugegoda</item>
+        <item>St. Paul s Girls School, Milagiriya</item>
+        <item>St. Mary s T.M.V School, Bambalapitiya</item>
+        <item>Susamaya Wardana College</item>
+        <item>Thurstan College, Colombo</item>
+        <item>Taxila Central College Horana</item>
+        <item>Veluwana College, Dematagoda</item>
+        <item>Visakha Vidyalaya, Colombo</item>
+        <item>Vivekananda College Colombo</item>
+        <item>Zahira College, Colombo</item>
+    </string-array>
+    <string-array name="driverField">
+        <item>fname</item>
+        <item>mname</item>
+        <item>lname</item>
+        <item>Nic</item>
+        <item>gender</item>
+        <item>dob</item>
+        <item>email</item>
+        <item>address</item>
+        <item>mobile</item>
+        <item>licenceNumber</item>
+        <item>salary</item>
+    </string-array>
+    <string-array name="vehicleField">
+        <item>vehicleId</item>
+        <item>rlNum</item>
+        <item>ecNum</item>
+        <item>seats</item>
+        <item>filledSeats</item>
+    </string-array>
+    <string-array name="childField">
+        <item>childId</item>
+        <item>fname</item>
+        <item>mname</item>
+        <item>lname</item>
+        <item>gender</item>
+        <item>dob</item>
+    </string-array>
+    <string-array name="parentField">
+        <item>fname</item>
+        <item>mname</item>
+        <item>lname</item>
+        <item>Nic</item>
+        <item>gender</item>
+        <item>email</item>
+        <item>address</item>
+        <item>mobile</item>
+        <item>city</item>
+    </string-array>
+</resources>
